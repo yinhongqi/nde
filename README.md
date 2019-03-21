@@ -2,5 +2,4 @@
 nde
 
 
-<input value="1111" style="widt:200px;"/>
-<a href="http://www.sina.com.cn" target="blank">钍基熔盐</a>
+<a href="http://www.sina.com.cn" target="blank">新浪首页</a>
